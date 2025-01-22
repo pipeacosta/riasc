@@ -6,7 +6,7 @@ module.exports = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/logos/riasc.svg',
-    organizationName: 'ERIGrid2',
+    organizationName: 'pipeacosta',
     projectName: 'riasc',
     plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
     themeConfig: {
