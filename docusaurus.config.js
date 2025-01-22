@@ -2,7 +2,7 @@ module.exports = {
     title: 'RIasC',
     tagline: 'Research Infrastructure as Code',
     url: 'https://pipeacosta.github.io/riasc/',
-    baseUrl: '/riasc',
+    baseUrl: '/riasc/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/logos/riasc.svg',
